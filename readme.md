@@ -53,3 +53,9 @@ git status -- Para ver el estado de los archivos
 git add nombreArchivo -- Para agregar algun archivo al repositorio
 
 git commit -m "commit inicial" -- Tiene q ser un msj q tenga sentido, descriptivo de la tarea o los cambios realizados
+
+git rm archivo.txt 
+
+git restore --staged archivo.txt
+
+git restore archivo.txt
