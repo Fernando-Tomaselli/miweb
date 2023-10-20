@@ -72,4 +72,9 @@ git branch -- Para ver en q rama estamos parados
 
 git checkout -b ramaX -- Crea una rama
 
-ok
+git checkout master -- Vuelvo a la Rama Master
+
+cat readme.md -- Me aparece en terminal todo el archivo readme
+    Sirve para ver q tiene el archivo, si cambio de una rama a la otra.
+
+
