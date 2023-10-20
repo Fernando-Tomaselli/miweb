@@ -68,3 +68,8 @@ git mv archivo.txt archivoModificado.txt -- Cambio el nombre del archivo, y actu
 
 git status -s -- Otra forma mas simple de ver los estados
 
+git branch -- Para ver en q rama estamos parados
+
+git checkout -b ramaX -- Crea una rama
+
+ok
