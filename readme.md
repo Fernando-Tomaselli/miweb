@@ -54,8 +54,17 @@ git add nombreArchivo -- Para agregar algun archivo al repositorio
 
 git commit -m "commit inicial" -- Tiene q ser un msj q tenga sentido, descriptivo de la tarea o los cambios realizados
 
-git rm archivo.txt 
+git rm archivo.txt -- Elmina el archivo
 
 git restore --staged archivo.txt
 
 git restore archivo.txt
+
+mv archivo.txt archivoModificado.txt -- Cambio el nombre del archivo
+
+git mv archivo.txt archivoModificado.txt -- Cambio el nombre del archivo, y actuliza el estado
+
+- Dentro del archivo .gitignore podemos indicar que archivos, carpetas no queremos agregar al repositorio.
+
+git status -s -- Otra forma mas simple de ver los estados
+
