@@ -77,4 +77,4 @@ git checkout master -- Vuelvo a la Rama Master
 cat readme.md -- Me aparece en terminal todo el archivo readme
     Sirve para ver q tiene el archivo, si cambio de una rama a la otra.
 
-
+git merge ramaX -- Asi traigo a la rama Master, todo lo q estaba en la ramaX  
